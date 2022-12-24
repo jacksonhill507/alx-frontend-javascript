@@ -7,4 +7,3 @@ export default function initializeRooms() {
   classes.push(new ClassRoom(34));
   return classes;
 }
-
